@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AKExpensesTracker.Server.Functions", "AKExpensesTracker.Server.Functions\AKExpensesTracker.Server.Functions.csproj", "{7899577C-C8C1-4427-BF16-FB0B1E19E992}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Server", "Server", "{9709E9B9-8369-4683-AA6F-E9255A6AA527}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Client", "Client", "{1AECED2E-50E0-47D3-9EAE-A9E16497EED2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7899577C-C8C1-4427-BF16-FB0B1E19E992}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7899577C-C8C1-4427-BF16-FB0B1E19E992}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7899577C-C8C1-4427-BF16-FB0B1E19E992}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7899577C-C8C1-4427-BF16-FB0B1E19E992}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D484570D-F4A9-444A-BFB2-70915AB55C29}
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7899577C-C8C1-4427-BF16-FB0B1E19E992} = {9709E9B9-8369-4683-AA6F-E9255A6AA527}
+	EndGlobalSection
+EndGlobal
