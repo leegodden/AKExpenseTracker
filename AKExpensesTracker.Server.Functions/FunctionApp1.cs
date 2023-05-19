@@ -8,6 +8,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Logging;
 using Newtonsoft.Json;
 
+// 1.
 namespace AKExpensesTracker.Server.Functions
 {
     public static class FunctionApp1
